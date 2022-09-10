@@ -218,7 +218,7 @@ Guajajara
 Guan
 Guaraní
 Gujarati
-Gujjar / Gurjar
+Gurjara
 Gumuz
 Guna
 Gurage
@@ -692,7 +692,7 @@ Yoa-Lokpa
 Yoruba
 Yugambeh
 Yukaghir
-Yup'ik
+Yupik
 Zaghawa
 Zamboangueños
 Zande
